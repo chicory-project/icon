@@ -1,0 +1,19 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="C-clip">
+      <rect x="0" y="0" width="7" height="20" />
+    </clipPath>
+  </defs>
+  <g transform="translate(2,2)">
+    <g id="C" fill="#2196f3" clip-path="url(#C-clip)">
+      <path d="M 8,0 l -4,0 c -4,0 -4,0 -4,4 l 0,12 c 0,4 0,4 4,4 l 4,0 l 0,-4 l -4,0 l 0,-12 l 4,0 l 0,-4 Z" />
+    </g>
+    <g id="P" fill="#0d47a1">
+      <path d="M 8,0 l 8,0 c 4,0 4,0 4,4 l 0,4 c 0,4 0,4 -4,4 l -8,0 l 0,-4 l 8,0 l 0,-4 l -8,0 l 0,-4 Z" />
+      <rect x="8" y="0" width="4" height="20" />
+    </g>
+    <g id="dot" fill="#f57c00">
+      <rect x="16" y="16" width="4" height="4" />
+    </g>
+  </g>
+</svg>
